@@ -18,6 +18,6 @@ public class DemoApp {
         Player p = new Player();
         int i = s.nextInt();
         p.name = "ilknur";
-        System.out.println("Hello World!" + i + p);
+        System.out.println("Greetings World!" + i + p);
     }
 }
